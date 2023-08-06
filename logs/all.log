@@ -1,0 +1,405 @@
+2023-08-05 18:49:50:4950 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:50:41:5041 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:50:46:5046 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:50:46:5046 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:50:53:5053 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:50:53:5053 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:50:56:5056 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:50:56:5056 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:50:59:5059 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:50:59:5059 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:08:518 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:51:08:518 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:22:5122 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:51:22:5122 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:27:5127 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:51:27:5127 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:31:5131 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:51:31:5131 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:33:5133 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:51:33:5133 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:36:5136 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:51:36:5136 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:51:56:5156 - [31merror[39m : [31mNão foi possível conectar[39m
+2023-08-05 18:51:56:5156 - [31merror[39m : [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.4djmsj.mongodb.net[39m
+2023-08-05 18:51:56:5156 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:52:01:521 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:52:01:521 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:52:24:5224 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:52:24:5224 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:52:25:5225 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:52:25:5225 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:52:27:5227 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:52:27:5227 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:52:29:5229 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:52:29:5229 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:59:33:5933 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:59:33:5933 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:59:39:5939 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:59:39:5939 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:59:41:5941 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:59:41:5941 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 18:59:59:5959 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 18:59:59:5959 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:00:03:03 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:00:03:03 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:00:06:06 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:00:06:06 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:00:48:048 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:00:48:048 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:00:50:050 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:00:50:050 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:00:51:051 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:00:51:051 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:03:22:322 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:03:22:322 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:04:41:441 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:04:41:441 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:04:45:445 - [35mhttp[39m : [35mGET /api/test 200 11 - 2.838 ms[39m
+[35m[39m
+2023-08-05 19:14:31:1431 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:14:31:1431 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:14:35:1435 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:14:35:1435 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:14:42:1442 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:14:42:1442 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:26:18:2618 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:26:18:2618 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:26:28:2628 - [35mhttp[39m : [35mPOST /api//movie 200 22 - 2.175 ms[39m
+[35m[39m
+2023-08-05 19:28:58:2858 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:28:58:2858 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:29:00:290 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:29:00:290 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:29:02:292 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:29:02:292 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:22:3022 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:22:3022 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:24:3024 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:24:3024 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:32:3032 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:32:3032 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:36:3036 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:36:3036 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:38:3038 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:38:3038 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:39:3039 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:39:3039 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:42:3042 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:42:3042 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:47:3047 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:47:3047 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:52:3052 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:52:3052 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:30:56:3056 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:30:56:3056 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:00:310 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:00:310 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:06:316 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:06:316 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:16:3116 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:16:3116 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:19:3119 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:19:3119 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:24:3124 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:25:3125 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:26:3126 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:26:3126 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:28:3128 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:28:3128 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:32:3132 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:32:3132 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:39:3139 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:39:3139 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:41:3141 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:41:3141 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:48:3148 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:48:3148 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:52:3152 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:52:3152 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:31:53:3153 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:31:53:3153 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:32:12:3212 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:32:12:3212 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:32:17:3217 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:32:17:3217 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:32:22:3222 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:32:22:3222 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:33:06:336 - [35mhttp[39m : [35mPOST /api//movie 201 155 - 42.943 ms[39m
+[35m[39m
+2023-08-05 19:45:25:4525 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:45:25:4525 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:45:28:4528 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:45:28:4528 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:45:29:4529 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:45:29:4529 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:45:37:4537 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:45:37:4537 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:45:58:4558 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:45:58:4558 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:46:13:4613 - [35mhttp[39m : [35mPOST /api//movie 201 148 - 45.546 ms[39m
+[35m[39m
+2023-08-05 19:50:55:5055 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:50:55:5055 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:51:26:5126 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:51:26:5126 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:51:28:5128 - [35mhttp[39m : [35mPOST /api//movie 201 143 - 44.720 ms[39m
+[35m[39m
+2023-08-05 19:53:34:5334 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:53:34:5334 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:54:30:5430 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:54:30:5430 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:54:32:5432 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:54:32:5432 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:54:37:5437 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:54:37:5437 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:54:45:5445 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:54:45:5445 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:54:57:5457 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:54:57:5457 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:54:59:5459 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:54:59:5459 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:55:10:5510 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:55:10:5510 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:55:13:5513 - [35mhttp[39m : [35mPOST /api//movie 422 72 - 5.471 ms[39m
+[35m[39m
+2023-08-05 19:55:24:5524 - [35mhttp[39m : [35mPOST /api//movie 422 72 - 1.768 ms[39m
+[35m[39m
+2023-08-05 19:55:31:5531 - [35mhttp[39m : [35mPOST /api//movie 422 54 - 1.052 ms[39m
+[35m[39m
+2023-08-05 19:55:59:5559 - [35mhttp[39m : [35mPOST /api//movie 201 148 - 37.630 ms[39m
+[35m[39m
+2023-08-05 19:56:19:5619 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:19:5619 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:21:5621 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:21:5621 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:34:5634 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:34:5634 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:37:5637 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:37:5637 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:45:5645 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:45:5645 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:51:5651 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:51:5651 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:52:5652 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:52:5652 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:56:59:5659 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:56:59:5659 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:57:01:571 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:57:01:571 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:57:09:579 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:57:09:579 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:57:37:5737 - [35mhttp[39m : [35mPOST /api//movie 201 160 - 48.976 ms[39m
+[35m[39m
+2023-08-05 19:57:43:5743 - [35mhttp[39m : [35mPOST /api//movie 201 160 - 29.087 ms[39m
+[35m[39m
+2023-08-05 19:57:54:5754 - [35mhttp[39m : [35mPOST /api//movie 422 59 - 1.106 ms[39m
+[35m[39m
+2023-08-05 19:58:40:5840 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:58:40:5840 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:58:52:5852 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:58:52:5852 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:59:10:5910 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:59:10:5910 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:59:21:5921 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:59:21:5921 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:59:31:5931 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:59:31:5931 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:59:33:5933 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:59:34:5934 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:59:40:5940 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 19:59:40:5940 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 19:59:53:5953 - [35mhttp[39m : [35mPOST /api//movie 422 60 - 5.581 ms[39m
+[35m[39m
+2023-08-05 20:00:31:031 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:00:31:031 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:00:37:037 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:00:37:037 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:00:42:042 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:00:42:042 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:00:43:043 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:00:43:043 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:00:48:048 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:00:48:048 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:00:57:057 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:00:57:057 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:01:00:10 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:01:00:10 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:01:11:111 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:01:11:111 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:02:11:211 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:02:11:211 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:02:26:226 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:02:26:226 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:02:28:228 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:02:28:228 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:02:36:236 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:02:36:236 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:03:01:31 - [35mhttp[39m : [35mPOST /api//movie 422 111 - 8.599 ms[39m
+[35m[39m
+2023-08-05 20:03:07:37 - [35mhttp[39m : [35mPOST /api//movie 422 63 - 1.503 ms[39m
+[35m[39m
+2023-08-05 20:03:26:326 - [35mhttp[39m : [35mPOST /api//movie 201 200 - 43.213 ms[39m
+[35m[39m
+2023-08-05 20:03:40:340 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:03:40:340 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:03:45:345 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:03:45:345 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:07:34:734 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:07:34:734 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:07:39:739 - [35mhttp[39m : [35mPOST /api//movie 201 230 - 45.518 ms[39m
+[35m[39m
+2023-08-05 20:08:43:843 - [35mhttp[39m : [35mPOST /api//movie 201 242 - 32.258 ms[39m
+[35m[39m
+2023-08-05 20:38:22:3822 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:38:22:3822 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:38:58:3858 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:38:58:3858 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:39:00:390 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:39:00:390 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:39:29:3929 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:39:29:3929 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:39:34:3934 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:39:34:3934 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:07:407 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:07:407 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:15:4015 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:15:4015 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:17:4017 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:17:4017 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:19:4019 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:19:4019 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:38:4038 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:38:4038 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:40:4040 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:40:4040 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:42:4042 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:42:4042 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:44:4044 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:44:4044 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:46:4046 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:46:4046 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:50:4050 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:50:4050 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:40:55:4055 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:40:55:4055 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:07:417 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:07:417 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:10:4110 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:10:4110 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:16:4116 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:16:4116 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:20:4120 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:20:4120 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:23:4123 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:23:4123 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:42:4142 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:42:4142 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:41:47:4147 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:41:47:4147 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:03:423 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:03:423 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:09:429 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:09:429 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:25:4225 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:25:4225 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:30:4230 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:30:4230 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:37:4237 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:37:4237 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:47:4247 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:47:4247 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:51:4251 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:51:4251 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:42:57:4257 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:42:57:4257 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:43:04:434 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:43:04:434 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:43:09:439 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:43:09:439 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:43:11:4311 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:43:11:4311 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:45:59:4559 - [35mhttp[39m : [35mGET /api//movie/64ced67b92ca3687d05ec3b4 - - - - ms[39m
+[35m[39m
+2023-08-05 20:46:13:4613 - [35mhttp[39m : [35mGET /api//movie/64ced67b92ca3687d05ec3b4 - - - - ms[39m
+[35m[39m
+2023-08-05 20:46:16:4616 - [31merror[39m : [31mErro no sistema: Cast to ObjectId failed for value "64ced67b92ca3687d05ec3b4s" (type string) at path "_id" for model "Movie"[39m
+2023-08-05 20:47:12:4712 - [35mhttp[39m : [35mGET /api//movie/64ced67b92ca3687d05ec3b4s - - - - ms[39m
+[35m[39m
+2023-08-05 20:49:16:4916 - [35mhttp[39m : [35mGET /api//movie/64ced67b92ca3687d05ec3b4 - - - - ms[39m
+[35m[39m
+2023-08-05 20:49:58:4958 - [35mhttp[39m : [35mGET /api//movie/64ced67b92ca3687d05ec3b4 - - - - ms[39m
+[35m[39m
+2023-08-05 20:50:05:505 - [35mhttp[39m : [35mPOST /api//movie 201 242 - 49.145 ms[39m
+[35m[39m
+2023-08-05 20:50:18:5018 - [35mhttp[39m : [35mGET /api//movie/64ced63b92ca3687d05ec3b2 - - - - ms[39m
+[35m[39m
+2023-08-05 20:51:27:5127 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:51:27:5127 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:51:32:5132 - [35mhttp[39m : [35mGET /api//movie/64cee02d44c477f37689a983 200 242 - 38.317 ms[39m
+[35m[39m
+2023-08-05 20:52:52:5252 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:52:52:5252 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:53:09:539 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:53:09:539 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:55:25:5525 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:55:25:5525 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 20:55:28:5528 - [35mhttp[39m : [35mGET /api//movie 200 1839 - 38.324 ms[39m
+[35m[39m
+2023-08-05 20:59:56:5956 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 20:59:56:5956 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:00:21:021 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:00:21:021 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:00:26:026 - [35mhttp[39m : [35mDELETE /api//movie/64ced53eb6658e4ed8eca3c9 404 177 - 2.685 ms[39m
+[35m[39m
+2023-08-05 21:00:44:044 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:00:44:044 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:00:49:049 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:00:49:049 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:01:28:128 - [35mhttp[39m : [35mDELETE /api//movie/64ced3e70f9971323b448049%0A 404 180 - 3.352 ms[39m
+[35m[39m
+2023-08-05 21:04:32:432 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:04:32:432 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:05:21:521 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:05:21:521 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:05:42:542 - [35mhttp[39m : [35mDELETE /api//movie/64ced3e70f9971323b448049%0A 404 180 - 2.262 ms[39m
+[35m[39m
+2023-08-05 21:05:46:546 - [35mhttp[39m : [35mDELETE /api//movie/64ced3e70f9971323b448049%0A 404 180 - 1.133 ms[39m
+[35m[39m
+2023-08-05 21:05:47:547 - [35mhttp[39m : [35mDELETE /api//movie/64ced3e70f9971323b448049%0A 404 180 - 0.522 ms[39m
+[35m[39m
+2023-08-05 21:06:13:613 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:06:13:613 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:06:16:616 - [32minfo[39m : [32mErro no sistema: Cast to ObjectId failed for value "64ced3e70f9971323b448049\n" (type string) at path "_id" for model "Movie"[39m
+2023-08-05 21:07:21:721 - [35mhttp[39m : [35mDELETE /api//movie/64ced3e70f9971323b448049%0A - - - - ms[39m
+[35m[39m
+2023-08-05 21:07:22:722 - [35mhttp[39m : [35mDELETE /api//movie/64ced3e10f9971323b448047 201 37 - 66.168 ms[39m
+[35m[39m
+2023-08-05 21:08:03:83 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:03:83 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:08:05:85 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:05:85 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:08:21:821 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:21:821 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:08:23:823 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:23:823 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:08:25:825 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:25:825 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:08:32:832 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:32:832 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:08:36:836 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:08:36:836 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:11:19:1119 - [35mhttp[39m : [35mPATCH /api//movie/64cee02d44c477f37689a983 200 2 - 35.502 ms[39m
+[35m[39m
+2023-08-05 21:12:42:1242 - [35mhttp[39m : [35mPATCH /api//movie/64cee02d44c477f37689a983 200 243 - 52.500 ms[39m
+[35m[39m
+2023-08-05 21:13:52:1352 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:13:52:1352 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:14:31:1431 - [35mhttp[39m : [35mPATCH /api//movie/64cee02d44c477f37689a983 422 114 - 14.390 ms[39m
+[35m[39m
+2023-08-05 21:14:36:1436 - [35mhttp[39m : [35mPATCH /api//movie/64cee02d44c477f37689a983 200 243 - 75.478 ms[39m
+[35m[39m
+2023-08-05 21:17:40:1740 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:17:40:1740 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
+2023-08-05 21:17:43:1743 - [32minfo[39m : [32mA conexão foi realizada[39m
+2023-08-05 21:17:43:1743 - [32minfo[39m : [32mAplicação funcionando na porta :3000[39m
